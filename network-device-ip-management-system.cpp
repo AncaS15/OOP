@@ -88,9 +88,6 @@ int main(){
         else if(test==5){
             dispozitiv.eliminare_ip();
         }
-        else if(test==6){
-            
-        }
     }while(test!=-1);
 
     return 0;
