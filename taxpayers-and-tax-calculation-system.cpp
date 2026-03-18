@@ -113,9 +113,6 @@ int main(){
     else if(test==3){
         agentie.test3();
     }
-    else{
-        
-    }
     
     return 0;
 }
