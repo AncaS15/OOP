@@ -120,7 +120,6 @@ int main(){
     else if(test==2){
         joc.test2();
     }
-    //mi e lene
     
     return 0;
 }
